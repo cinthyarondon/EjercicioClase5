@@ -1,3 +1,5 @@
 Primer commit
 Debemos escribir el comando completo git pull origin main, no funciona git pull
 El proceso para mantener actualizado es 1) adicionar, 2) commitear, y 3) pushear
+
+Trabajando todas en el mismo archivo.
